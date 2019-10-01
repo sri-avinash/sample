@@ -1,4 +1,5 @@
 // level order traversal to bst
+//it has only function to insert 
 class GFG {
     Node root=null;
     public Node constructBST(int[] arr){
